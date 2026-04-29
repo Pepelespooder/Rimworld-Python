@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
-  <dc:creator>Accord.NET</dc:creator>
-  <dc:description>Contains Support Vector Machines, Decision Trees, Naive Bayesian models, K-means, Gaussian Mixture models and general algorithms such as Ransac, Cross-validation and Grid-Search for machine-learning applications. This package is part of the Accord.NET Framework.</dc:description>
-  <dc:identifier>Accord.MachineLearning</dc:identifier>
-  <version>3.8.0</version>
-  <keywords>accord.net aforge.net machine learning artificial intelligence svm kmeans kmodes gmm ransac kernel deep knn unity3d unity</keywords>
-  <lastModifiedBy>NuGet, Version=4.1.0.2450, Culture=neutral, PublicKeyToken=31bf3856ad364e35;Microsoft Windows NT 6.2.9200.0;.NET Framework 4.5</lastModifiedBy>
-</coreProperties>
