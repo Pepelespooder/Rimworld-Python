@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Accord.MachineLearning</id>
+    <version>3.8.0</version>
+    <title>Accord.MachineLearning</title>
+    <authors>Accord.NET</authors>
+    <owners>Accord.NET</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>http://accord-framework.net/license.txt</licenseUrl>
+    <projectUrl>http://accord-framework.net/</projectUrl>
+    <iconUrl>http://accord-framework.net/logo.png</iconUrl>
+    <description>Contains Support Vector Machines, Decision Trees, Naive Bayesian models, K-means, Gaussian Mixture models and general algorithms such as Ransac, Cross-validation and Grid-Search for machine-learning applications. This package is part of the Accord.NET Framework.</description>
+    <summary>Supervised and unsupervised algorithms for classification, clustering, optimization and search, such as SVMs, Naive Bayes, k-Means, GMMs, k-Nearest Neighbors, and Decision Trees.</summary>
+    <tags>accord.net aforge.net machine learning artificial intelligence svm kmeans kmodes gmm ransac kernel deep knn unity3d unity</tags>
+    <dependencies>
+      <dependency id="Accord" version="3.8.0" />
+      <dependency id="Accord.Math" version="3.8.0" />
+      <dependency id="Accord.Statistics" version="3.8.0" />
+    </dependencies>
+  </metadata>
+</package>

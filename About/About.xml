@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Rimworld Python</name>
+  <author>Makin</author>
+  <packageId>makin.rimworldpython</packageId>
+  <supportedVersions>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Loads Python scripts in RimWorld through IronPython.</description>
+</ModMetaData>
